@@ -1,5 +1,3 @@
-[InternetShortcut]
-URL=https://github.com/NicoPizzuto/AED/blob/main/README.md
 • Materia: Algoritmos y Estructuras de Datos
 • Curso: K1051 
 • Año de cursada: 2023 

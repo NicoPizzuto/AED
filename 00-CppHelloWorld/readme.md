@@ -4,4 +4,4 @@
 + Legajo: 203.966-7
 + Apellido: Pizzuto 
 + Nombre: Nicolás Vicente
-+ Compilador: Visual Studio Code; Compilador MinGW versión 6.3
++ Compilador: Visual Studio Code; Compilador MinGW versión 6.3.0

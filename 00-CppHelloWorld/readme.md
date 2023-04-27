@@ -1,5 +1,5 @@
 • Materia: Algoritmos y Estructuras de Datos
-• Curso: K1051 
++ Curso: K1051 
 • Año de cursada: 2023 
 • Legajo: 203.966-7
 • Apellido: Pizzuto 
